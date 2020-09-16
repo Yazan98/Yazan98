@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Welcome To My Profile
-#### My Name is Yazan Tarifi, im a ✨ Software Engineer ✨
+#### My Name is Yazan Tarifi, im a ✨ Experienced Software Engineer ✨ Working @Opensooq as a Android Developer also there is personal Experience In SpringBoot and Nest.js To Build Restful Api With Good Infrastructure, Clean Code, has a good Experience in Java, Kotlin, Typescript, Gradle To Build 
 
 ##### 😄Technologies, Languages, Frameworks I Code With
 ![](https://img.shields.io/badge/Frontend-Android-green)
@@ -40,8 +40,8 @@ Welcome To My Profile
 ##### My Portfolio
 [Website](https://yazan98.github.io)
 
-##### 💬 Ask me about My Public Repositories
-
+##### 💬 Ask me about Android Development / Backend Frameworks (Spring, Nest.js)
+##### 🤔 Currently Working On Kotlin Project Starter (Vortex)
 ##### 📫 How to reach me: ...
 [Linkedin](https://www.linkedin.com/in/yazan-tarifi-106282192/)
 
