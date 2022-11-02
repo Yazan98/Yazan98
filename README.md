@@ -28,8 +28,11 @@ Always trying to Learn New Technologies and Programming Languages, Frameworks
 
 ## Tools
 
-<img width="50" height="50" alt="Test" src="https://user-images.githubusercontent.com/29167110/199565787-27dcc5d2-5608-4b49-8feb-fec0b53d05f9.png"><img width="50" height="50" alt="Test" src="https://user-images.githubusercontent.com/29167110/199565766-a15656dd-b035-455c-8b7c-5a36bcb37827.png"><img width="50" height="50" alt="Test" src="https://user-images.githubusercontent.com/29167110/199566469-9b31d196-aa48-4d76-9992-37147c16ba2a.png"><img width="50" height="50" alt="Test" src="https://user-images.githubusercontent.com/29167110/199566478-dea25cd8-9195-427d-a938-caa2c63bcc58.png"><img width="50" height="50" alt="Test" src="https://user-images.githubusercontent.com/29167110/199566820-4ae95bb7-d86e-4078-bcf4-fb1c47900de8.png"><img width="50" height="50" alt="Test" src="https://user-images.githubusercontent.com/29167110/199566826-645c6af2-cf29-40b1-a4dc-d6932ee40229.png"><img width="50" height="50" alt="Test" src="https://user-images.githubusercontent.com/29167110/199567041-d62b4f45-11ab-48ec-9870-08fa0d58d335.png">
+<img width="50" height="50" alt="Test" src="https://user-images.githubusercontent.com/29167110/199565787-27dcc5d2-5608-4b49-8feb-fec0b53d05f9.png"><img width="50" height="50" alt="Test" src="https://user-images.githubusercontent.com/29167110/199565766-a15656dd-b035-455c-8b7c-5a36bcb37827.png"><img width="50" height="50" alt="Test" src="https://user-images.githubusercontent.com/29167110/199566469-9b31d196-aa48-4d76-9992-37147c16ba2a.png"><img width="50" height="50" alt="Test" src="https://user-images.githubusercontent.com/29167110/199566478-dea25cd8-9195-427d-a938-caa2c63bcc58.png"><img width="50" height="50" alt="Test" src="https://user-images.githubusercontent.com/29167110/199566820-4ae95bb7-d86e-4078-bcf4-fb1c47900de8.png"><img width="50" height="50" alt="Test" src="https://user-images.githubusercontent.com/29167110/199566826-645c6af2-cf29-40b1-a4dc-d6932ee40229.png"><img width="50" height="50" alt="Test" src="https://user-images.githubusercontent.com/29167110/199567041-d62b4f45-11ab-48ec-9870-08fa0d58d335.png"><img width="50" height="50" alt="Test" src="https://user-images.githubusercontent.com/29167110/199611158-73f084f2-2c40-422b-a65c-8c2ad60c9637.png"><img width="50" height="50" alt="Test" src="https://user-images.githubusercontent.com/29167110/199611160-22550c92-b41e-4e3f-b27e-b174cc6965bf.png"><img width="50" height="50" alt="Test" src="https://user-images.githubusercontent.com/29167110/199611463-0b74c64e-40d1-4992-af16-70c1693213fd.png"><img width="50" height="50" alt="Test" src="https://user-images.githubusercontent.com/29167110/199611588-6dbf97c9-b704-4bb4-8db0-076b97c08c82.png"><img width="50" height="50" alt="Test" src="https://user-images.githubusercontent.com/29167110/199612200-310750a8-54f0-445b-aeac-115ff54f450d.png">
 
+## Databases
+
+<img width="50" height="50" alt="Test" src="https://user-images.githubusercontent.com/29167110/199611864-f38b1ad4-afdc-479a-8324-f81c5d7f2be5.png"><img width="50" height="50" alt="Test" src="https://user-images.githubusercontent.com/29167110/199611929-b357e96f-2660-422b-bffc-a802fce673c7.png"><img width="50" height="50" alt="Test" src="https://user-images.githubusercontent.com/29167110/199612181-95dd4819-9e83-473e-82ed-3cc103c5c70f.png"><img width="50" height="50" alt="Test" src="https://user-images.githubusercontent.com/29167110/199612185-dc3cb325-0dd7-4ac0-b7e2-e398040481c8.png">
 
 ## Connect with me
 <p align="left">
@@ -43,22 +46,26 @@ Always trying to Learn New Technologies and Programming Languages, Frameworks
 
 ## Profile Information
 
-- 🔭 I’m currently working on [Legora](https://legora.me)
-
-- 🌱 I’m currently learning **Web Applications**
+- 🌱 I’m currently learning 
+1. Building Advanced Web Applications
+2. Build Native Apps with KMM (Kotlin Multiplatform Mobile)
+3. System Design - Microservices
+4. AWS Services
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 🤝 I’m looking for help with **Android Development**
 
-- 👨‍💻 All of my projects are available at [https://www.yazantarifi.com](https://www.yazantarifi.com)
+- 👨‍💻 All of my Open Source Projects are available at [Personal Website](https://www.yazantarifi.com/#/projects)
 
-- 📝 I regularly write articles on [https://dev.to/yazan98](https://dev.to/yazan98)
+- 📝 I regularly write articles on 
+1. Medium: [Account Link](https://medium.com/@yazantarifi98)
+2. Dev.to: [Account Link](https://dev.to/yazan98)
 
 - 💬 Ask me about **Android Development**
 
-- 📫 How to reach me **https://www.linkedin.com/in/yazan-tarifi-106282192/**
+- 📫 How to reach me: [LinkedIn Account](https://www.linkedin.com/in/yazan-tarifi-106282192/)
 
-- 📄 Know about my experiences [https://www.yazantarifi.com/#/projects](https://www.yazantarifi.com/#/projects)
+- 📄 Know about my experiences: [Personal Website](https://www.yazantarifi.com)
 
 
