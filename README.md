@@ -46,26 +46,80 @@ Always trying to Learn New Technologies and Programming Languages, Frameworks
 
 ## Profile Information
 
-- 🌱 I’m currently learning 
-1. Building Advanced Web Applications
-2. Build Native Apps with KMM (Kotlin Multiplatform Mobile)
-3. System Design - Microservices
-4. AWS Services
+### Development Skills
+1. Building Large, Scalable Android Applications
+2. Build IOS Applications with SwiftUI
+3. Build Macos Applications With SwiftUI
+4. Build Static, Dynamic Pages in React.js
+5. Build Api with Nest.js, Typescript
+6. Host Websites With Client Side Rendering with Namecheap and Github Pages
+7. Build Shared Bussiness Logic with Kotlin Multiplatform
+8. Build CLI with Typescript, Npm
+9. Build Small Desktop Projects with Reactjs, Electron Applications
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+### Projects Information
 
-- 🤝 I’m looking for help with **Android Development**
+My public profile contains a collection of projects that I may face in my software development journey
 
-- 👨‍💻 All of my Open Source Projects are available at [Personal Website](https://www.yazantarifi.com/#/projects)
+#### Android Development
+1. [LinkLoom - Chromecase](https://github.com/Yazan98/LinkLoomTv)
+2. [Markdown Compose](https://github.com/Yazan98/Markdown-Compose)
+3. [Vanite Library](https://github.com/Yazan98/Vanite)
+4. [Shake Reporting Library](https://github.com/Yazan98/Shake-Reporter-Kt)
+5. [Palex RecyclerView Adaoter](https://github.com/Yazan98/Palex-Adapter)
+6. [Reporting Problems Library](https://github.com/Yazan98/Issuer-kt)
+7. [Android Template](https://github.com/Yazan98/Android-Template)
+8. [Github Client Restful Api](https://github.com/Yazan98/Github-Client)
+9. [Food Delivery App](https://github.com/Yazan98/Destiny)
+10. [Weather App](https://github.com/Yazan98/Wintrop)
 
-- 📝 I regularly write articles on 
+#### Swift Development
+1. [Github Client - Graphql](https://github.com/Yazan98/Gitly)
+2. [Rick Morty UIKit](https://github.com/Yazan98/rick-morty-ios-app)
+3. [Link Compare - Macos](https://github.com/Yazan98/Compare-Url)
+4. [ADB Events - Macos](https://github.com/Yazan98/android-tools-macos)
+5. [Tapper - Macos Client](https://github.com/tapper-app/desktop-macos)
+
+#### Kotlin Multiplarform Mobile
+1. [Cryptocurrency App](https://github.com/Yazan98/KMM-Cryptocurrency)
+2. [Sopy - Shared Code for KMM Apps](https://github.com/Yazan98/KMM-Sopy)
+3. [Spotify Client](https://github.com/Yazan98/KMM-Spotify)
+
+#### Javascript Development
+1. [Personal Website Reactjs](https://github.com/Yazan98/portfolio)
+2. [Personal Website Build](https://github.com/Yazan98/yazan98.github.io)
+3. [Discord Bot](https://github.com/Yazan98/Mushroom)
+4. [Slack App](https://github.com/Yazan98/Zilon)
+5. [Github Profile Cloner](https://github.com/Yazan98/cloner-js)
+6. [Github Clone](https://github.com/Yazan98/github-clone)
+7. [Netflix Clone](https://github.com/Yazan98/Netflix-Clone)
+8. [NextJs of My Personal Website](https://github.com/Yazan98/portfolio-next)
+
+#### PHP Development
+1. [Yii Api for Shops](https://github.com/Yazan98/shop-api)
+
+#### Random Projects
+1. [Fastlane Plugin](https://github.com/Yazan98/fastlane-Zeeva)
+2. [Android Studio Plugin](https://github.com/Yazan98/Viper-Idea)
+3. [Custom Git Hooks](https://github.com/Yazan98/commiter)
+4. [Vscode Theme](https://github.com/Yazan98/Denamo)
+5. [Kotlin Api With Ktor](https://github.com/Yazan98/Ktor-Example)
+6. [SpringBoot Api - Food](https://github.com/Yazan98/Destiny-Api)
+7. [SpringBoot Api - Books in Java](https://github.com/Yazan98/Books-spring)
+
+### 📝 I regularly write articles on 
 1. Medium: [Account Link](https://medium.com/@yazantarifi98)
 2. Dev.to: [Account Link](https://dev.to/yazan98)
 
-- 💬 Ask me about **Android Development**
+### 👨‍💻 **Personal Website**
+  1. [Website Link](https://www.yazantarifi.com)
+  2. [Projects Page](https://www.yazantarifi.com/#/projects)
 
-- 📫 How to reach me: [LinkedIn Account](https://www.linkedin.com/in/yazan-tarifi-106282192/)
+### 📫 How to reach me:
+  1. [LinkedIn Account](https://www.linkedin.com/in/yazan-tarifi-106282192/)
 
-- 📄 Know about my experiences: [Personal Website](https://www.yazantarifi.com)
 
+### 💬 Currently Im working on **Tapper**
+1. [Source Code](https://github.com/tapper-app)
+2. [Website](https://www.tapperapp.com)
 
